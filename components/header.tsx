@@ -4,8 +4,9 @@ export default function Header() {
     return (
         <header className="bg-gray-800 text-white p-4 flex items-center justify-between">
         <img src="/supanote-logo.png" alt="Supabase Note Logo" className="h-7" />
-        <h1 className="text-xl font-bold">Supanotexxx cccc,,,, master</h1>
-        
+        <h1 className="text-xl font-bold">Supanote master lock -- teature-A 
+
+        </h1>
         </header>
     );
     }
